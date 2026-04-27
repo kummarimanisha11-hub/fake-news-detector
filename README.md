@@ -27,6 +27,9 @@ This project is an AI-based Fake News Detection system that classifies news arti
 - True.csv  
 (Used for training the model)
 
+##Live Demo:
+https://fake-news-detector-7crqk7qwvsac5owpjc4vly.streamlit.app/
+
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
